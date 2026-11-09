@@ -1,0 +1,42 @@
+name: Captura programada
+
+# Se activa solo cuando el repositorio se suba a GitHub. Mientras tanto, usa capturar.bat en la PC.
+on:
+  schedule:
+    - cron: "30 23 * * *"   # 23:30 UTC = 17:30 en Colima
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: captura
+  cancel-in-progress: false
+
+jobs:
+  capturar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Capturar fuentes
+        id: captura
+        continue-on-error: true
+        run: python -m extractores.captura
+      - name: Guardar datos y bitacora en el repositorio
+        if: always()
+        run: |
+          git config user.name "tdl-captura[bot]"
+          git config user.email "tdl-captura@users.noreply.github.com"
+          git add data/bronce calidad/bitacora_captura.csv
+          git diff --cached --quiet || git commit -m "data: captura programada $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase --autostash
+          git push
+      - name: Marcar fallo si fallaron todas las fuentes
+        if: steps.captura.outcome == 'failure'
+        run: exit 1

@@ -1,0 +1,3 @@
+ejecucion_id,fuente,inicio_utc,fin_utc,duracion_s,estado,registros,archivo,error,disparo
+20261109T213519-66d295,cenace_precios,2026-11-09T21:35:19+00:00,2026-11-09T21:35:34+00:00,14.89,ok,576,data/bronce/cenace_precios/2026-11-09.csv,,local
+20261109T213519-66d295,cenace_demanda,2026-11-09T21:35:34+00:00,2026-11-09T21:35:36+00:00,2.14,ok,49,data/bronce/cenace_demanda/2026-11-09.csv,,local
