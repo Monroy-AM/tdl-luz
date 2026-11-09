@@ -1,7 +1,7 @@
 # Entrega E0 · Observatorio del precio de la luz en Colima
 
 Equipo: Miriam Monroy Alcaraz (22460314) · Etiqueta: `e0` · Tablero: (a partir de E1)
-Repositorio: <URL del repositorio> · Quality Lead de esta entrega: Miriam Monroy Alcaraz
+Repositorio: https://github.com/Monroy-AM/tdl-luz · Quality Lead de esta entrega: Miriam Monroy Alcaraz
 
 ## Resumen en tres líneas
 1. Qué observamos y para quién: el precio por hora de la electricidad en el mercado mayorista (CENACE) en las zonas de Colima y Manzanillo, para empresas con alto consumo de luz.
@@ -14,7 +14,7 @@ Repositorio: <URL del repositorio> · Quality Lead de esta entrega: Miriam Monro
 | Criterio de la rúbrica | Evidencia (enlace) | Nota del equipo |
 |---|---|---|
 | Plan de recopilación (20) | `docs/E0/propuesta.md` sección 4 | |
-| Captura y serie histórica (25) | `.github/workflows/captura.yml`, última ejecución: <enlace a Actions>, `data/bronce/` | |
+| Captura y serie histórica (25) | `.github/workflows/captura.yml`, ejecuciones: https://github.com/Monroy-AM/tdl-luz/actions, `data/bronce/` | |
 
 ## Análisis Estadístico
 | Criterio de la rúbrica | Evidencia (enlace) | Nota del equipo |

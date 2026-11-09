@@ -1,9 +1,7 @@
 # Propuesta del observatorio · Observatorio del precio de la luz en Colima
 
 Equipo: Miriam Monroy Alcaraz (22460314) · Data Engineer y Data Statistician (equipo de una integrante)
-Fecha: 09/11/2026 · Repositorio: <URL del repositorio> · Etiqueta: `e0`
-
-> PENDIENTE antes de entregar: la URL del repositorio. Borrar esta nota.
+Fecha: 09/11/2026 · Repositorio: https://github.com/Monroy-AM/tdl-luz · Etiqueta: `e0`
 
 ## 1. Ficha del observatorio
 
