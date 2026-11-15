@@ -1,0 +1,51 @@
+fecha_captura,gerencia,hora,demanda_mw,generacion_mw,enlace_mw,pronostico_mw,_fuente,_url,_capturado_utc,_ejecucion_id
+2026-11-15,Occidental,24,9459,5464,,9371,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,1,8765,5458,,8720,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,2,8512,5258,,8496,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,3,8286,5436,,8315,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,4,8197,5624,,8235,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,5,8159,5428,,8190,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,6,8225,5576,,8227,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,7,8370,5612,,8385,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,8,8490,5859,,8533,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,9,8561,6953,,8720,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,10,8451,7449,,8690,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,11,8285,7847,,8546,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,12,8170,7946,,8551,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,13,8191,7965,,8545,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,14,8092,7962,,8580,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,15,7967,7787,,8494,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,16,8200,7770,,8718,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,17,8590,7660,,9013,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,18,8976,7048,,9183,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,19,9399,7330,,9560,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,20,9313,7024,,9566,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,21, , ,,9362,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,22, , ,,9174,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,23, , ,,8826,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,Occidental,24, , ,,8435,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,24,38522,38739,,38234,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,1,36012,36314,,36021,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,2,34665,34968,,34683,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,3,33864,34154,,33759,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,4,33362,33655,,33283,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,5,32812,33118,,32979,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,6,32910,33241,,32991,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,7,33191,33517,,33194,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,8,33641,33938,,33582,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,9,34222,34526,,34555,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,10,34747,35005,,34976,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,11,34716,34906,,35149,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,12,35134,35346,,35606,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,13,35314,35499,,35825,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,14,35456,35643,,36023,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,15,35157,35381,,36201,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,16,35850,36112,,36721,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,17,36796,37059,,37356,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,18,37831,38088,,37911,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,19,39608,39856,,39485,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,20,39198,39450,,39239,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,21, , ,,38552,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,22, , ,,37869,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,23, , ,,36719,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
+2026-11-15,SIN,24, , ,,35375,cenace_demanda,https://www.cenace.gob.mx/GraficaDemanda.aspx,2026-11-15T02:55:50+00:00,20261115T025546-d3af7b
