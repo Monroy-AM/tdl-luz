@@ -39,3 +39,5 @@ ejecucion_id,fuente,inicio_utc,fin_utc,duracion_s,estado,registros,archivo,error
 20261126T051640-6b885f,cenace_demanda,2026-11-26T05:16:41+00:00,2026-11-26T05:16:43+00:00,1.78,ok,48,data/bronce/cenace_demanda/2026-11-26.csv,,schedule
 20261127T051349-e484d0,cenace_precios,2026-11-27T05:13:49+00:00,2026-11-27T05:13:50+00:00,0.66,ok,576,data/bronce/cenace_precios/2026-11-27.csv,,schedule
 20261127T051349-e484d0,cenace_demanda,2026-11-27T05:13:50+00:00,2026-11-27T05:13:52+00:00,1.84,ok,48,data/bronce/cenace_demanda/2026-11-27.csv,,schedule
+20261128T044948-079058,cenace_precios,2026-11-28T04:49:48+00:00,2026-11-28T04:49:49+00:00,0.76,ok,576,data/bronce/cenace_precios/2026-11-28.csv,,schedule
+20261128T044948-079058,cenace_demanda,2026-11-28T04:49:49+00:00,2026-11-28T04:49:51+00:00,1.85,ok,49,data/bronce/cenace_demanda/2026-11-28.csv,,schedule
